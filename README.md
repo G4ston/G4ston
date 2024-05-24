@@ -1,16 +1,15 @@
 ## Hi there 👋
+My name is Gastón Peña. Here you can find the projects I have been working on.
+!--
+🔭 Education
+Bachelor's Degree in Sociology from the University of Buenos Aires (UBA) 🏛️
+Currently pursuing a Master's Degree in Data Mining at UBA 🧠
 
-<!--
-**G4ston/G4ston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Interests
+Amateur football player with a passion for the game! ⚽❤️
+Avid reader of history, social theory, and science in general 📚🔍
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on Data Analytics & Data Science projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
