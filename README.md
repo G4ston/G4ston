@@ -11,5 +11,3 @@ Avid reader of history, social theory, and science in general 📚🔍
 
 - 👯 I’m looking to collaborate on Data Analytics & Data Science projects
 
--->
-
